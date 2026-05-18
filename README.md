@@ -41,3 +41,32 @@ The system supports three types of users each with their own dashboard and permi
 - Open the project in NetBeans
 - Run `Project.java` it launches the main application window
 - use "A001" and "admin123" as admin ID and Password
+
+
+<img width="484" height="358" alt="University Management System 5_18_2026 11_57_19 PM" src="https://github.com/user-attachments/assets/220bdd8a-cf75-47d3-969d-671e79d7580b" />
+<img width="484" height="358" alt="University Management System 5_18_2026 11_57_35 PM" src="https://github.com/user-attachments/assets/f44c9232-7d22-477f-bde7-43457acf3055" />
+
+<img width="484" height="358" alt="University Management System 5_18_2026 11_57_44 PM" src="https://github.com/user-attachments/assets/8cd4ff60-ac9c-4898-8b79-5ccba598921b" />
+
+<img width="484" height="358" alt="University Management System 5_18_2026 11_57_53 PM" src="https://github.com/user-attachments/assets/67708a54-a43a-421f-bfdf-607d5cf0a381" />
+
+<img width="484" height="358" alt="University Management System 5_19_2026 12_00_01 AM" src="https://github.com/user-attachments/assets/7ff8167d-0c29-4c38-971a-804584df926b" />
+
+<img width="484" height="358" alt="University Management System 5_19_2026 12_00_26 AM" src="https://github.com/user-attachments/assets/d966dda1-98a3-49c0-8484-19fc62d10945" />
+
+<img width="484" height="358" alt="University Management System 5_19_2026 12_01_41 AM" src="https://github.com/user-attachments/assets/260e89b9-f0d1-4a27-be43-265534da168a" />
+
+<img width="484" height="703" alt="University Management System 5_19_2026 12_01_55 AM" src="https://github.com/user-attachments/assets/cd9b357e-3d8c-445d-974d-582bcdd6f8a1" />
+
+<img width="484" height="328" alt="University Management System 5_19_2026 12_03_29 AM" src="https://github.com/user-attachments/assets/591e25cd-6cf6-418e-b2ac-eed179bcc497" />
+
+
+
+
+
+
+
+
+
+
+
