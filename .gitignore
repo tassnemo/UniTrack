@@ -1,0 +1,13 @@
+# NetBeans build output
+build/
+dist/
+nbproject/private/
+ 
+# NetBeans cache
+.nb-gradle/
+ 
+# Mac OS junk
+.DS_Store
+ 
+# Windows junk
+Thumbs.db
