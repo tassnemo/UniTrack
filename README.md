@@ -39,4 +39,5 @@ The system supports three types of users each with their own dashboard and permi
 - Make sure you have NetBeans IDE and Java JDK installed
 - Clone or download the repo
 - Open the project in NetBeans
-- Run `Project.java` it launches the main application window 
+- Run `Project.java` it launches the main application window
+- use "A001" and "admin123" as admin ID and Password
