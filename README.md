@@ -1,5 +1,5 @@
 # UniTrack 
-A Java-based university management system built with NetBeans and Java Swing.
+A Java-based university management system built with NetBeans and Java Swing done as part of a team project
 
 ## About
 A desktop application that manages students, doctors, and courses within a university.
